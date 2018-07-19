@@ -1,0 +1,4 @@
+sounds:
+  player-leave-example:
+    regex: '^(.*)(?:joined the game)$' #Example: https://regex101.com/r/v0umCZ/1
+    sound:

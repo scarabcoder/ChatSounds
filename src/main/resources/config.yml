@@ -1,4 +1,11 @@
 sounds:
-  player-leave-example:
+  player-join-example:
     regex: '^(.*)(?:joined the game)$' #Example: https://regex101.com/r/v0umCZ/1
-    sound:
+    sound: 'entity.itemframe.place'
+    volume: 1.0
+    pitch: 1.0
+  player-leave-example:
+    regex: '^(.*)(?:left the game)$'
+    sound: 'entity.itemframe.break'
+    volume: 1.0
+    pitch: 1.0

@@ -1,0 +1,7 @@
+name: ChatSounds
+version: ${project.version}
+main: com.scarabcoder.chatsounds.ChatSounds
+depend: [ProtocolLib]
+commands:
+  csreload:
+    description: Reload the plugin config

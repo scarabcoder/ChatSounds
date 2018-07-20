@@ -13,11 +13,10 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <kotlin.version>1.2.10</kotlin.version>
-        <project.name>Rapid Transport Tubes</project.name>
     </properties>
 
-    <name>2D Concept</name>
-    <description>A test plugin to for proof of concepts</description>
+    <name>ChatSounds</name>
+    <description>Play a sound for nearly any event by matching chat messages!</description>
     <organization>
         <name>ScarabCoder</name>
         <url>https://www.scarabcoder.com</url>
